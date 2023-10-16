@@ -1,0 +1,34 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 28, in script call
+    call expression semana
+  File "game/weeks/week_1/week_one.rpy", line 6, in script call
+    call expression dia
+  File "game/script.rpy", line 28, in script call
+    call expression semana
+  File "game/weeks/week_1/week_one.rpy", line 6, in script call
+    call expression dia
+ScriptError: could not find label 'semana1_dia2'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 28, in script call
+    call expression semana
+  File "game/weeks/week_1/week_one.rpy", line 6, in script call
+    call expression dia
+  File "C:\Users\evald\Downloads\RenPy\renpy-8.1.1-sdk\renpy\ast.py", line 1725, in execute
+    rv = renpy.game.context().call(label, return_site=self.next.name)
+  File "game/script.rpy", line 28, in script call
+    call expression semana
+  File "game/weeks/week_1/week_one.rpy", line 6, in script call
+    call expression dia
+  File "C:\Users\evald\Downloads\RenPy\renpy-8.1.1-sdk\renpy\script.py", line 1013, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'semana1_dia2'.
+
+Windows-10-10.0.19041 AMD64
+Ren'Py 8.1.1.23060707
+ES_Weeks_Impl 1.0
+Mon Oct 16 01:49:17 2023
