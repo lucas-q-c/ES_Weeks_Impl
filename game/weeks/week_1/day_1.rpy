@@ -11,14 +11,14 @@ label semana1_dia1:
     mc "Os estudantes que saem são vistos como figuras excepcionais, quase míticas aos olhos de alguns" 
     mc "Como nobres e realeza de tempos de outrora, imortalizados nos anais da história e fóruns do StackOverflow…" 
     mc "Então como foi que eu vim parar aqui?"
-    hide intro with fade
+    hide intro
     # Chegada
     play music "audio/music.mp3" volume 0.5
-    show escola
+    show escola with zoomin
     mc "Rapaz, eu estou nervoso." 
     mc "Vamos, você ensaiou isso dezenas de vezes com a sua mãe…"
-    mc "“Olá, meu nome é…”"
-    $ player_name = renpy.input("Olá, meu nome é ", length=32)
+    mc "“Olá, meu nome é...”"
+    $ player_name = renpy.input("Olá, meu nome é...", length=32)
     $ mc = Character("[player_name]", who_color = "#0004ff")
     $ mcN = Character("[player_name]", who_color = "#0004ff", what_color = "#6d6d6d", what_prefix = "(", what_suffix = ")")
     mc "“Eu sou uma linguagem de programação…”"
@@ -40,17 +40,17 @@ label semana1_dia1:
     pyt "Olá?"
     mc "AHHH!"
     "Você dá um pulo para traz quando uma garota com um brilho nos olhos cutuca seu ombro"
-    show pyth with moveinleft
+    show pyth i with moveinleft
     pyt "Você é o estudante novo?"
     "Rápido, você tem que se apresentar." 
     "Não há mais tempo para pensar, diz a primeira coisa que vier à sua mente."
     menu:
         "Introdução descolada":
             mc "Y-yo-yo! Se liga, mano-bro, aqui é P-kun na área!"
-            pyt esperando "..."
+            pyt 34 "..."
             mc "..."
             mcN "Eu devo ter algum problema"
-            pyt -esperando "Yo-yo!"
+            pyt -34 "Yo-yo!"
             mc "!"
             pyt "Aqui é DJ Python falando, trazendo para o baile o mais venenoso grave!"
             mcN "Ela devolveu!" 
@@ -59,54 +59,54 @@ label semana1_dia1:
             pyt "Muito prazer, [player_name]. Eu me chamo Python e vim aqui pra te receber na academia."
         "Introdução em Haiku":
             mc "Aluno novo cujo nome restrito depois te digo."
-            pyt esperando "..."
+            pyt 34 "..."
             mc "..."
             mcN "Eu devo ter algum problema"
-            pyt -esperando "Seja bem-vindo NameError Exception nessa Academia. Me chamo Python"
+            pyt -34 "Seja bem-vindo NameError Exception nessa Academia. Me chamo Python"
             mcN "Ela devolveu!"
     $ pyt.name = "Python"
-    show pyth sorrindo
+    show pyth i 32
     "Ela manteve a pose por alguns segundos, antes de rir de forma animada"
-    show pyth
+    show pyth i
     pyt "Não precisa ficar nervoso, eu sou uma de suas colegas de classe."
     mc "Obrigado."
     mc "E desculpa, eu nunca achei que iria ter um tour nessa academia, quem dirá estudar nela."
     pyt "Relaxa, eu soube que você foi escolhido a dedo pelo diretor. Ele pode ser meio esquisito, mas ele normalmente acerta em cheio nesse tipo de coisa."
     mc "Se você diz."
     pyt "O semester começa amanhã, então a gente vai ter que acelerar as coisas e te dar um intensivão sobre como a Academia funciona."
-    hide pyth
+    hide pyth i
     "Vocês começam a andar enquanto Python lhe apresenta as instalações do local"
     #Biblioteca
     show biblioteca with dissolve
-    show pyth
+    show pyth i
     pyt "Aqui é a biblioteca."
-    hide pyth
+    hide pyth i
     jav "Zzzzz..."
-    show java dormindo
+    show java 9
     mc "E quem é aquele ali?"
     jav "Zzzzz..."
     hide java
-    show pyth 2 explicando with moveinleft
+    show pyth 14 with moveinleft
     pyt "Ignore o dorminhoco, ele vai acordar antes do natal."
     pyt "Na biblioteca, você pode estudar com um parceiro!"
     pyt "Estudar em conjunto é uma ótima forma de ficar mais próximo a um colega, além de te preparar para provas adquirindo estratégias."
     pyt "Durante as batalhas de término da semana, você e um parceiro podem usar suas estratégias para enfrentar questões."
     menu:
         "Batalhas?":
-            pyt 2 sorrindo "Soa estranho não é. Não sei como começou, mas o pessoal por aqui chama as provas de 'batalha'."
-            pyt 2 explicando "Nas batalhas, Existem 3 tipos de questões, assim como tipos de estratégias: teórica, algébrica e analítica"
+            pyt 12 "Soa estranho não é. Não sei como começou, mas o pessoal por aqui chama as provas de 'batalha'."
+            pyt 14 "Nas batalhas, Existem 3 tipos de questões, assim como tipos de estratégias: teórica, algébrica e analítica"
             pyt "Você pode levar para a batalha até 4 estratégias."        
             pyt "Ao ter sucesso num teste, você fica mais proximo de seu parceiro escolhido. Mas tenha cuidado, porque falhar nele pode distanciar vocês."
         "Entendo...":
             pass
-    show pyth
+    show pyth i
     pyt "Que tal praticar comigo? Eu sou bem esperta, sabia?"
     menu:
         "Participar da batalha":
             "MORTAL KOMBAT!!!"
         "Recusar a proposta":
-            pyt normal "É uma pena, mas não se preocupe, se quiser estudar comigo em algum outro momento, pode me chamar."
-    pyt -normal "Acho que chega de biblioteca."
+            pyt i 35 "É uma pena, mas não se preocupe, se quiser estudar comigo em algum outro momento, pode me chamar."
+    pyt -35 "Acho que chega de biblioteca."
     pyt "Vamos, ainda tenho muito pra te mostrar!"
     hide pyth
     hide biblioteca with dissolve
@@ -115,19 +115,20 @@ label semana1_dia1:
     "O qual não pôde durar muito tempo, já que vocês foram interrompidos por um aviso que vinha dos alto-falantes no corredor"
     alan "Python, perdão interromper o seu serviço, mas vocês vão ter que sair."
     alan "Já bateu a hora da escola fechar os portões e não posso perder a audiência de custódia da Computação."
-    show pyth 2 aww with moveinleft
+    show pyth 28 with moveinleft
     pyt "Awww, parece que vamos ter que deixar as coisas pra depois"
-    show pyth
+    show pyth i
     pyt "Então te vejo amanhã, [player_name]. Espero que possamos ser amigos"
     hide pyth
-    "E assim terminou seu primeiro dia na Academia antes de seu primeiro dia na Academia" 
+    hide escola with dissolve
+    "E assim terminou seu primeiro dia na Academia antes do seu primeiro dia na Academia" 
     "Você estava imaginando que as coisas seriam bem mais caóticas do que de fato foram, e, sinceramente, aquilo te dá um certo alívio" 
     "A maior parte do seu nervosismo sumiu por causa da recepção recebida. Agora você mal pode esperar para seu segundo dia"
     return
 
 label dia1_flashback:
     play sound "audio/FlashbackSoundEffect.mp3" fadein 1.0
-    pause 0.4
+    pause 1.0
     show rua with dissolve
     "Dia de ontem..."
     mc "R$93,75 da conta d’água…" 
@@ -198,7 +199,7 @@ label dia1_flashback:
     alan "Eu acredito que às vezes são as pessoas de quem ninguém espera nada que fazem as coisas que ninguém consegue imaginar."
     mcN "E o que isso deveria significar?"
     alan "Meu nome é Alan Turing. Eu sou diretor de uma certa Academia Prestigiada: a Academia [school_name]."
-    $ alan.name = "Alan"
+    $ alan.name = "Alan Turing"
     alan "E eu gostaria de lhe convidar à vir participar dela."
     mcN "Do que diabos ele está falando?"
     alan "Você deve estar se perguntando o motivo de eu estar lhe convidando assim de repente"

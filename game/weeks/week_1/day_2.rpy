@@ -205,163 +205,134 @@ Escolha:
 
 ● Ir para a sala de recreação
 o Python — {Yes! Garanto que não vai se arrepender}
-o Java – {Parece que foi derrotado nos votos. Vão vocês dois, eu tenho
-que passar na loja pra comprar mais pó de café} {Vejo vocês na classe}
-o Python – {Até!} {Então, acho que somos só nós 2 denovo, né?}
+o Java – {Parece que foi derrotado nos votos. Vão vocês dois, eu tenho que passar na loja pra comprar mais pó de café} 
+{Vejo vocês na classe}
+o Python – {Até!} 
+{Então, acho que somos só nós 2 denovo, né?}
 o Protagonista — {Java é sempre assim?}
 o Python — {Assim como?}
     o Escolha
     ▪ Tão formal
     ▪ Tão cansado
     o Fim da escolha
-o Python — {Sim, um pouco} {Ele tem as melhores notas da turma em
-todos os assuntos, faz diversas atividades extracurriculares} {E apenas
-agora largou a presidência. Você não tava aqui para ver o incidente de
-debandada de ouriços.} {Meu amigo, aquilo foi uma bagunça!}
+o Python — {Sim, um pouco} 
+{Ele tem as melhores notas da turma em todos os assuntos, faz diversas atividades extracurriculares} 
+{E apenas agora largou a presidência. Você não tava aqui para ver o incidente de debandada de ouriços.} 
+{Meu amigo, aquilo foi uma bagunça!}
 o Protag – {De novo: a o quê?}
-o Python – {Ele sempre tá se cobrando demais. Estudando, planejando,
-e, além disso...} {Toma. Tanto. Café.} {Duvido que tenha mais de 5
-horas de sono durante a noite.} {Mas não deixe aquela cara séria te
-enganar: ele tem um senso de humor bizarro!}
+o Python – {Ele sempre tá se cobrando demais. Estudando, planejando, e, além disso...} 
+{Toma. Tanto. Café.} 
+{Duvido que tenha mais de 5 horas de sono durante a noite.} 
+{Mas não deixe aquela cara séria te enganar: ele tem um senso de humor bizarro!}
 o Protag – {O que você quer dizer?}
-o Python – {Eventualmente você vai perceber} {Apenas seja grato por não
-estar aqui durante sua era de Imperador do Pinguim Imperador}
+o Python – {Eventualmente você vai perceber} 
+{Apenas seja grato por não estar aqui durante sua era de Imperador do Pinguim Imperador}
 {Chegamos!}
 o [Fairy Fountain Music]
-o Python – {Essa é a sala de recreação, e essa é a fonte mágica. Toma,
-faz um pedido}
+o Python – {Essa é a sala de recreação, e essa é a fonte mágica. Toma, faz um pedido}
 o VOCÊ RECEBEU 1 TOKEN!
 o Narrador – {Você se aproxima o bastante para jogar o TOKEN na fonte}
-{Ela jorra majestosamente, o ar se torna uma brisa de verão e uma
-rápida esfera d’agua acerta seu rosto, te deixando ensopado} {Algo cai
-em suas mãos}
-o VOCÊ RECEBEU 1 ITEM GENÉRICO DEMASIADAMENTE
-BRILHANTE!!!!!!!!!!!!!!!!!
+{Ela jorra majestosamente, o ar se torna uma brisa de verão e uma rápida esfera d’agua acerta seu rosto, te deixando ensopado} 
+{Algo cai em suas mãos}
+o VOCÊ RECEBEU 1 ITEM GENÉRICO DEMASIADAMENTE BRILHANTE!!!!!!!!!!!!!!!!!
 o Python – {Hey, esse é um item bem raro! A sorte tá do seu lado, hein?}
 o Protag – {Eh, acho que sim}
-o Narrador – {Pra ser sincero, você não acha que vai usar essa coisa de
-novo. O prêmio não vale a chance de gripar no dia seguinte}
-o Python – {E é isso, com exceção da loja acadêmica, você visitou todos
-os lugares.} {Foi legal te mostrar as coisas, mas agora você tá por conta
-própria. Se abaixa aqui por favor, eu quero te dar algo}
-o Narrador – {Você se agacha, ficando olho-à-olho com Python, a qual te
-encara com um sorriso} {A temperatura do seu rosto aumenta, e você
-reza que não o bastante pra te fazer corar a medida que Python se
-aproxima cada vez mais...} {Para que as duas cobras dela te beijem nas
-bochechas}
+o Narrador – {Pra ser sincero, você não acha que vai usar essa coisa de novo. O prêmio não vale a chance de gripar no dia seguinte}
+o Python – {E é isso, com exceção da loja acadêmica, você visitou todos os lugares.} 
+{Foi legal te mostrar as coisas, mas agora você tá por conta própria. Se abaixa aqui por favor, eu quero te dar algo}
+o Narrador – {Você se agacha, ficando olho-à-olho com Python, a qual te encara com um sorriso} 
+{A temperatura do seu rosto aumenta, e você reza que não o bastante pra te fazer corar a medida que Python se aproxima cada vez mais...} 
+{Para que as duas cobras dela te beijem nas bochechas}
 o Python – {Te vejo depois}
-o Narrador – {Ela vai embora com um sorriso bobo no rosto} {E você é
-deixado lá plantado, meio envergonhado, meio feliz, demasiadamente
-estupefato para mover-se.} {E é nesse estado que você começa a ouvir
-um estranho barulho vindo da janela. {Um tintilar metálico, seguido por
-um vupt-vupt-vupt e então...}
-o Protag – {Aquilo é grappling hook?}
-o Narrador – {Você escuta uma respiração ofegante à medida que um
-garoto ruivo se esgueira através da janela e cai no carpete.} {Enquanto
-você, de forma sensata e razoável, se esconde atrás do sofá}
+o Narrador – {Ela vai embora com um sorriso bobo no rosto} 
+{E você é deixado lá plantado, meio envergonhado, meio feliz, demasiadamente estupefato para mover-se.} 
+{E é nesse estado que você começa a ouvir um estranho barulho vindo da janela. 
+{Um tintilar metálico, seguido por um vupt-vupt-vupt e então...}
+o Protag – {Aquilo é um grappling hook?}
+o Narrador – {Você escuta uma respiração ofegante à medida que um garoto ruivo se esgueira através da janela e cai no carpete.} 
+{Enquanto você, de forma sensata e razoável, se esconde atrás do sofá}
 o Ruby – {Ótimo, não tem ninguém aqui}
-o Narrador – {Ah se ele soubesse} {Ele tira do bolso uma moeda de prata
-– não, um TOKEN – e joga na fonte} {Ela jorra majestosamente, o ar se
-torna uma brisa de verão e uma rápida esfera d’agua acerta o rosto do
-garoto} {Você dá um suspiro de alívio ao perceber que não há perigo
-ali, apena um garoto pateta e seu vício em gacha} {Ele se mantem de
-pé lá, soltando um suspiro como o seu, mas de decepção enquanto
-segura um sorvete de pistache...} {Antes de tirar mais 100 TOKENS e
-jogá-los na fonte} {Dela sai uma mensagem}
+o Narrador – {Ah se ele soubesse} 
+{Ele tira do bolso uma moeda de prata – não, um TOKEN – e joga na fonte} 
+{Ela jorra majestosamente, o ar se torna uma brisa de verão e uma rápida esfera d’agua acerta o rosto do garoto} 
+{Você dá um suspiro de alívio ao perceber que não há perigo ali, apena um garoto pateta e seu vício em gacha} 
+{Ele se mantem de pé lá, soltando um suspiro como o seu, mas de decepção enquanto segura um sorvete de pistache...} 
+{Antes de tirar mais 100 TOKENS e jogá-los na fonte} 
+{Dela sai uma mensagem}
 o {VOCÊ RECEBEU 99 ITENS COMUNS E UM ITEM SUPER RARO...}
-o Narrador - {O corpo dele estremece de ânimo, você consegue sentir a
-esperança emanando nele}
+o Narrador - {O corpo dele estremece de ânimo, você consegue sentir a esperança emanando nele}
 o {REPETIDO!}
-o Narrador – {Ele joga o item para longe e cai de joelhos ao chão,
-socando o mesmo} {E claro, o item jogado acaba voando pela sala e
-acertando sua cabeça atrás do sofá}
+o Narrador – {Ele joga o item para longe e cai de joelhos ao chão, socando o mesmo} 
+{E claro, o item jogado acaba voando pela sala e acertando sua cabeça atrás do sofá}
 o Protag – {Ouch!}
 o Ruby - {Quem está aí!?}
-o Narrador – {É, agora que você foi descoberto seria melhor se
-apresentar ao rapaz logo} {Você se levanta e se aproxima dele}
+o Narrador – {É, agora que você foi descoberto seria melhor se apresentar ao rapaz logo} 
+{Você se levanta e se aproxima dele}
 o Protag – {Olá}
-o Ruby — {Ahhh!} {Você… você não viu nada, viu…?}
+o Ruby — {Ahhh!} 
+{Você… você não viu nada, viu…?}
 o Protag – {…}
-o Ruby — {…} {Minha vida está arruinada}
+o Ruby — {…} 
+{Minha vida está arruinada}
 o Protag – {Por causa do gacha?}
-o Ruby – {Meu segredo foi descoberto e pelo quê? Um SSR repetido
-vindo no hard pity} {Talvez se eu trocar alguns dólares ou reais por
-TOKENS num banco, eu tenha mais sorte da próxima.} {Afinal,
-TOKENS são a 3° moeda do país, então eu só estaria mudando a
-forma que guardo dinheiro} {Não, não. Controle-se, Ruby, você precisa
-resistir à tentação de pôr dinheiro no gacha}
+o Ruby – {Meu segredo foi descoberto e pelo quê? Um SSR repetido vindo no hard pity} 
+{Talvez se eu trocar alguns dólares ou reais por TOKENS num banco, eu tenha mais sorte da próxima.} 
+{Afinal, TOKENS são a 3° moeda do país, então eu só estaria mudando a forma que guardo dinheiro} 
+{Não, não. Controle-se, Ruby, você precisa resistir à tentação de pôr dinheiro no gacha}
 o Protag – {Você pode se acalmar e explicar as coisas direito?}
-o Ruby – {...} {Desculpa, perdi a compostura por um momento}
-o Narrador – {Você acha que o rapaz se acalmou um pouco, mas então
-ele vê o item que você ganhou da fonte e entra em estado de choque}
-Ruby – {I-isso é um JPEG Super Raro SSS+ edição limitada de
-banner?}
-o Protag – {Isso? Eu não sei, como disse, simplesmente consegui na
-fonte}
+o Ruby – {...} 
+{Desculpa, perdi a compostura por um momento}
+o Narrador – {Você acha que o rapaz se acalmou um pouco, mas então ele vê o item que você ganhou da fonte e entra em estado de choque}
+Ruby – {I-isso é um JPEG Super Raro SSS+ edição limitada de banner?}
+o Protag – {Isso? Eu não sei, como disse, simplesmente consegui na fonte}
 o Ruby – {Você simplesmente conseguiu?!
-o Protag – {Yeah. Python tava me ensinando a usar a fonte. Na minha
-opinião, a bola d’agua acertar sua cara é bastante desnecessá-}
-o Ruby – {VOCÊ CONSEGUIU NA PRIMEIRA TENTATIVA?!} {Eu tava
-tentando a pelo menos 3 meses.}
+o Protag – {Yeah. Python tava me ensinando a usar a fonte. Na minha opinião, a bola d’agua acertar sua cara é bastante desnecessá-}
+o Ruby – {VOCÊ CONSEGUIU NA PRIMEIRA TENTATIVA?!} 
+{Eu tava tentando a pelo menos 3 meses.}
 o Protag – {Oh... Você pode ficar com ele se quiser}
-o Narrador – {Ele olha pra você com olhos de cachorrinho, brilhando com
-lágrimas de emoção}
+o Narrador – {Ele olha pra você com olhos de cachorrinho, brilhando com lágrimas de emoção}
 o Ruby – {Você faria isso?}
-o Protag – {Claro que sim. Parece ser bem importante para você, e eu
-nem mesmo sei o que fazer com isso pra ser sincero}
-o Narrador – {E agora ele está à beira de desabar em lágrimas} {Um
-sentimento materno de proteger essa criança te enche por dentro}
+o Protag – {Claro que sim. Parece ser bem importante para você, e eu nem mesmo sei o que fazer com isso pra ser sincero}
+o Narrador – {E agora ele está à beira de desabar em lágrimas} 
+{Um sentimento maternal de proteger essa criança te enche por dentro}
 o Ruby – {Obrigado! Muito obrigado!}
 o Protag – {Tá tudo bem. Agora, porque você entrou pela janela?}
-o Ruby – {Oh. Yeah. Isso.} {Acho que deve ter parecido bem estranho
-para você, não é?}
+o Ruby – {Oh. Yeah. Isso.} 
+{Acho que deve ter parecido bem estranho para você, não é?}
 o Protag – {É, um pouco}
-o Ruby – {A verdade é que eu meio que faço meus desejos para a fonte
-em segredo. Ninguém sabe sobre.} {Eu normalmente checo o ponto de
-bater cartões pra saber se ainda tem alguém na sala antes de entrar, e
-Python já tinha saído} {Como é que você entrou aqui sem deixar um
-registro? Você também veio pela janela?} {Porque se for esse o caso,
-eu gostaria de alguns conselhos. Eu toda vez machuco meus pulsos na
-subida e...}
-o Protag – {Ah, não. Eu sou novo aqui, então nem sequer tenho um
-cartão ainda. Entrei com a Python, mas ela teve que ir embora}
-o Ruby – {Oh, você é o cara novo!} {Eu ouvi que você saiu atropelando
-todo o processo seletivo}
+o Ruby – {A verdade é que eu meio que faço meus desejos para a fonte em segredo. Ninguém sabe sobre.} 
+{Eu normalmente checo o ponto de bater cartões pra saber se ainda tem alguém na sala antes de entrar, e Python já tinha saído} 
+{Como é que você entrou aqui sem deixar um registro? Você também veio pela janela?} 
+{Porque se for esse o caso, eu gostaria de alguns conselhos. Eu toda vez machuco meus pulsos na subida e...}
+o Protag – {Ah, não. Eu sou novo aqui, então nem sequer tenho um cartão ainda. Entrei com Python, mas ela teve que ir embora}
+o Ruby – {Oh, você é o cara novo!} 
+{Eu ouvi que você saiu atropelando todo o processo seletivo}
 o Protag – {Eu acho que é uma forma de se ver}
-o Ruby – {Meu nome é Ruby, entrei aqui ano passado} {Eu ainda sou
-meio que novo aqui, então eu tento esconder meu hobby em gachas.}
-{Não quero algumas pessoas fazendo ainda mais piadas sobre mim,
-então eu apreciaria se você mantivesse isso só entre nós} {Aqui! Vou
-até te dar um sorvete de pistache}
-o Protag – {…} {Obrigado}
-o Ruby – {Eu que lhe agradeço} {Agora, se me der licença}
-o Narrador – {Ruby amarra todos os itens num saco de pano e põe sobre
-o ombro como um cowboy que acaba de roubar um trem} {Enquanto ele
-desce pelo seu grappling hook, você reza pra que ele não seja
-confundido com um assaltante e levado sob custódia pela polícia}
+o Ruby – {Meu nome é Ruby, entrei aqui ano passado} 
+{Eu ainda sou meio que novo aqui, então eu tento esconder meu hobby em gachas.}
+{Não quero algumas pessoas fazendo ainda mais piadas sobre mim, então eu apreciaria se você mantivesse isso só entre nós} 
+{Aqui! Vou até te dar um sorvete de pistache}
+o Protag – {…} 
+{Obrigado}
+o Ruby – {Eu que lhe agradeço} 
+{Agora, se me der licença}
+o Narrador – {Ruby amarra todos os itens num saco de pano e põe sobre o ombro como um cowboy que acaba de roubar um trem} 
+{Enquanto ele desce pelo seu grappling hook, você reza pra que ele não seja confundido com um assaltante e levado sob custódia pela polícia}
 o Protag – {Oh, droga! Vou me atrasar para a aula!}
 
 ● Ir para o mercado
-o Java — {Ótimo. Eu preciso ir lá comprar algumas coisas, então posso te
-acompanhar.}
-o Python — {Bem, se divirtam com isso. Eu preciso ir pra sala de
-recreação pra jogar ping-pong com Phy e Thon}
-o Narrador – {Python vai embora e você começa à andar com Java até
-pararem na frente de uma porta automática de vidro}
+o Java — {Ótimo. Eu preciso ir lá comprar algumas coisas, então posso te acompanhar.}
+o Python — {Bem, se divirtam com isso. Eu preciso ir pra sala de recreação pra jogar ping-pong com Phy e Thon}
+o Narrador – {Python vai embora e você começa à andar com Java até pararem na frente de uma porta automática de vidro}
 o Java – {Chegamos}
 o Narrador – {Um super mercado. Claro que seria um supermercado}
-o Java – {Vim comprar um novo carregador pra JVM. Você pode dar uma
-olhada por aqui, só cuidado pra não se perder}
-o Narrador – {Você e Java partem caminhos. A quantidade de coisas à
-venda pelos corredores é impressionante} {Comida de cachorro, pneus
-de carro e moto, varas de pesca, churrasqueira elétrica e por aí vai}
-{Enquanto você perambulava por ali, acabou chegando numa seção
-isolada com móveis à disposição.} {Em um dos sofás estava deitada
-uma garota segurando algo que parecia ser um videogame portátil. Ela
-falava em voz em voz alta o que estava digitando no console}
-o Lua – {If you keep *** on your **** lane while those ********** keep
-farming my **********************lane, I’m gonna burn your house to the
-ground you little piece of *********} {Oh, olá}
+o Java – {Vim comprar um novo carregador pra JVM. Você pode dar uma olhada por aqui, só cuidado pra não se perder}
+o Narrador – {Você e Java partem caminhos. A quantidade de coisas à venda pelos corredores é impressionante} 
+{Comida de cachorro, pneus de carro e moto, varas de pesca, churrasqueira elétrica e por aí vai}
+{Enquanto você perambulava por ali, acabou chegando numa seção isolada com móveis à disposição.} 
+{Em um dos sofás estava deitada uma garota segurando algo que parecia ser um videogame portátil. Ela falava em voz em voz alta o que estava digitando no console}
+o Lua – {If you keep *** on your **** lane while those ********** keep farming my **********************lane, I’m gonna burn your house to the ground you little piece of *********} 
+{Oh, olá}
 o Narrador – {Ela te cumprimenta ao notar sua presença}
 o Protag – {Olá, meu nome é...}
 o Lua – {[P-name]. Eu lembro de você da chamada}
@@ -369,23 +340,21 @@ o Protag – {Ah, é verdade, você está na minha classe. Lua, não é?}
 o Lua - {Bingo}
 o Narrador – {Lua levanta para sentar-se no sofá}
 o Protag – {Desculpa te atrapalhar}
-o Lua – {Nah, sem problemas. Se eu continuasse jogando Terracraf
-naquele servidor eu provavelmente esganaria alguém} {Sério, esse tipo
-de gente faz eu quase me arrepender de ter dado um calote no banco
-pra comprar essa nova versão do DXphere}
+o Lua – {Nah, sem problemas. Se eu continuasse jogando Terracraf naquele servidor eu provavelmente esganaria alguém} 
+{Sério, esse tipo de gente faz eu quase me arrepender de ter dado um calote no banco pra comprar essa nova versão do DXphere}
 o Protag – {Você o que?}
 o Lua – {Mais importante, o que você veio fazer aqui?}
-o Narrador – {Com a impressão de que a garota está desviando de um
-assunto importante, você decide seguir o fluxo}
+o Narrador – {Com a impressão de que a garota está desviando de um assunto importante, você decide seguir o fluxo}
 o Protag – {Só dando uma olhada}
 o Lua – {Sem um guia?}
 o Protag – {Porque eu precisaria de um no mercado?}
-o Lua – {Você realmente não sabe do que tá falando, né?} {Como chegou
-até essa seção da loja?}
-o Protag – {Passei pela seção de animais, automobilística, itens de pesca
-e por último a de itens para churrasco}
+o Lua – {Você realmente não sabe do que tá falando, né?} 
+{Como chegou até essa seção da loja?}
+o Protag – {Passei pela seção de animais, automobilística, itens de pesca e por último a de itens para churrasco}
 o Lua – {Cadê a seção de churrasco?}
-o Protag – {Tá ali...} {...} {Cadê a seção de churrasco?}
+o Protag – {Tá ali...} 
+{...} 
+{Cadê a seção de churrasco?}
 o Lua – {Tá à 3 seções de distancia daqui}
 o Protag – {Mas eu cheguei aqui depois de passar por ela!}
 o Lua – {Geração procedural}
@@ -393,73 +362,60 @@ o Protag – {Geração procedural?}
 o Lua – {Tipo roguelike}
 o Protag – {Isso não faz o menor sentido}
 o Lua - {Não reclame comigo. É a magia dos números pseudo aleatórios}
-o Narrador – {Você começa a perceber que as coisas aqui no terreno da
-academia não obedecem ao senso comum} {Então é melhor deixa de
-lado o “como é possível” e começar a perguntar “como resolver o
-problema”}
+o Narrador – {Você começa a perceber que as coisas aqui no terreno da academia não obedecem ao senso comum} 
+{Então é melhor deixa de lado o “como é possível” e começar a perguntar “como resolver o problema”}
 o Protag – {Certo, como é que eu saio daqui?}
-o Lua – {Mesmo o layout sendo randômico, algumas regras são sempre
-fixas} {A mais simples é em relação à loja de Haskell que tem aqui
-dentro}
+o Lua – {Mesmo o layout sendo randômico, algumas regras são sempre fixas} 
+{A mais simples é em relação à loja de Haskell que tem aqui dentro}
 o Protag – {Tem uma loja dentro da loja?}
 o Lua – {É claro que tem uma loja dentro da loja}
-o Protag – {...} {Ok, e qual é a regra?}
-o Lua – {A loja dele sempre tá à 2 seções da saída, por isso ele sempre
-sabe como ir embora da loja da escola} {Se quiser eu posso te levar até
-ela}
+o Protag – {...} 
+{Ok, e qual é a regra?}
+o Lua – {A loja dele sempre tá à 2 seções da saída, por isso ele sempre sabe como ir embora da loja da escola} 
+{Se quiser eu posso te levar até ela}
 o Protag – {Adoraria}
 o Lua – {Beleza, vem comigo}
-o Narrador – {após algo em torno de 15 minutos andando, três baús e um
-miniboss, vocês chegam à dita loja que mais parecia uma pequena
-banca de jornais}
+o Narrador – {após algo em torno de 15 minutos andando, três baús e um miniboss, vocês chegam à dita loja que mais parecia uma pequena banca de jornais}
 o Lua – {Ok, daqui você se vira. Vou voltar pro meu sofá}
 o Narrador – {Obrigado pela ajuda}
 o Lua – {Não tem de quê}
-o Narrador – {Lua vai embora e você é deixado lá em frente à loja de
-Haskell}
+o Narrador – {Lua vai embora e você é deixado lá em frente à loja de Haskell}
 o Protag – {Olá? Tem alguém aí?}
-o Narrador – {Nada} {Você começa a se perguntar se você foi largado ali
-sem ninguém pra ajudar} {Na pior das hipóteses você vai se perder de
-novo e não vai encontrar ninguém no caminho}
+o Narrador – {Nada} 
+{Você começa a se perguntar se você foi largado ali sem ninguém pra ajudar} 
+{Na pior das hipóteses você vai se perder de novo e não vai encontrar ninguém no caminho}
 o ??? – {Ei...}
-o Protag – {Se eu desaparecer por muito tempo, provavelmente vão
-enviar uma equipe de busca, então tá tudo bem}
+o Protag – {Se eu desaparecer por muito tempo, provavelmente vão enviar uma equipe de busca, então tá tudo bem}
 o ??? – {Eeeeeeeeei...}
-o Protag – {Mesmo que eles demorem pra me encontrar, eu posso me
-manter de forma confortável aqui no mercado} {Olha só, tem até uma
-feijoada aqui se eu ficar com fome}
+o Protag – {Mesmo que eles demorem pra me encontrar, eu posso me manter de forma confortável aqui no mercado} 
+{Olha só, tem até uma feijoada aqui se eu ficar com fome}
 o Haskell – {Se afasta da feijoada!}
 o Protag – {AHHHHH!}
 o Narrador – {Um rapaz aparece de repente muito próxima ao seu rosto}
 {Na verdade, aquilo é uma pessoa? Ele parece mais uma estátua}
-o Haskell – {Oh, você tá na minha turma.} {Não ache que eu vou deixar
-você pegar as coisas da loja de graça}
+o Haskell – {Oh, você tá na minha turma.} 
+{Não ache que eu vou deixar você pegar as coisas da loja de graça}
 o Narrador – {O rapaz vira de costas para arrumar as coisas na loja}
 o Protag – {Ei, como é que eu sai-}
 o Narrador – {E de repente, o rapaz some novamente}
-o Protag – {Eeeeei, pra onde você foi?} {Aparece}
+o Protag – {Eeeeei, pra onde você foi?} 
+{Aparece}
 o Haskell – {Para de gritar, eu nem saí daqui}
 o Protag – {E como você fica sumindo assim?}
-o Haskell – {Não por vontade própria. Tratamento de impureza em
-interações IO é difícil de fazer}
+o Haskell – {Não por vontade própria. Tratamento de impureza em interações IO é difícil de fazer}
 o Protag – {O que diabos é isso?}
-o Haskell – {Vai querer comprar algo ou não? Mercadoria exclusiva aqui
-na minha loja e aceitamos TOKENS}
+o Haskell – {Vai querer comprar algo ou não? Mercadoria exclusiva aqui na minha loja e aceitamos TOKENS}
 o Protag – {Que tipo de TOKENS?}
 o Haskell – {TOKEN, a 3° moeda oficial do país}
-o Haskell – {Você pode comprar itens na minha loja para dar à outras
-pessoas ou usar em provas, mas se você tiver um bom desempenho
-acadêmico, sou legalmente permitido a lhe vender item especial.}
+o Haskell – {Você pode comprar itens na minha loja para dar à outras pessoas ou usar em provas, 
+E se você tiver um bom desempenho acadêmico, sou legalmente permitido a lhe vender item especial.}
 o Protag – {Certo, isso é legal, mas por favor me ajuda a sair daqui}
-o Haskell – {Vire para esquerda e comece a andar de costas durante a
-próxima seção inteira. Pule e gire 180 graus e você verá a saída}
+o Haskell – {Vire para esquerda e comece a andar de costas durante a próxima seção inteira. Pule e gire 180 graus e você verá a saída}
 {Adeus}
-o Narrador – {seguindo as instruções do rapaz, você consegue sair da
-loja e se encontra com Java na frente dela}
+o Narrador – {seguindo as instruções do rapaz, você consegue sair da loja e se encontra com Java na frente dela}
 o Java – {Como foi sua primeira experiência com a loja da academia?}
 o Protag – {Não quero falar sobre isso}
-o Java – {Deixando isso de lado, temos que nos apressar para chegar à
-tempo para as aulas restantes}
+o Java – {Deixando isso de lado, temos que nos apressar para chegar à tempo para as aulas restantes}
 o Protag – {Ah, é verdade! Esqueci completamente disso}
 
 Fim da escolha
