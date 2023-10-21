@@ -22,6 +22,8 @@ image haskell = "images/Sprites Haskell/haskell happy.png"
 image java = "images/Sprites Java/java 1.png"
 image java 9 = "images/Sprites Java/java 9.png"
 
+image java i = "images/Sprites Java/java 18.png"
+
 # LUA
 image lua = "images/Sprites Lua/lua 1.png"
 
