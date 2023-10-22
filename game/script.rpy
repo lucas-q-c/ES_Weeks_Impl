@@ -4,7 +4,7 @@
 # name of the character.
 
 define e = Character("Eileen")
-
+default sala_recreacao_dia_2 = True # Deve depender de acontecimento no dia 2!
 
 # The game starts here.
 
