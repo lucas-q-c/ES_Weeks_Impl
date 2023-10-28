@@ -5,7 +5,7 @@ default itens_estado = [0, 0, False, False, False, False, False, False, False, F
     False, False, False, False, False]
 default items = ""
 default item_imagem = 0
-default token = 100
+default token = 0
 
 label inventory:
     
