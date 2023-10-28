@@ -94,3 +94,20 @@ image alan = "images/alan.png"
 
 # CGs
 # image luta lua x cobol = "images/CGs/6.png"
+
+# Itens
+image item = ConditionSwitch("item_imagem == 0", "images/Itens/item 1.png",
+    "item_imagem == 1", "images/Itens/item 2.png",
+    "item_imagem == 2", "images/Itens/item 3.png",
+    "item_imagem == 3", "images/Itens/item 4.png",
+    "item_imagem == 4", "images/Itens/item 5.png",
+    "item_imagem == 5", "images/Itens/item 6.png",
+    "item_imagem == 6", "images/Itens/item 7.png",
+    "item_imagem == 7", "images/Itens/item 8.png",
+    "item_imagem == 8", "images/Itens/item 9.png",
+    "item_imagem == 9", "images/Itens/item 10.png",
+    "item_imagem == 10", "images/Itens/item 11.png",
+    "item_imagem == 11", "images/Itens/item 12.png",
+    "item_imagem == 12", "images/Itens/item 13.png",
+    "item_imagem == 13", "images/Itens/item 14.png",
+    "item_imagem == 14", "images/Itens/item 15.png")
